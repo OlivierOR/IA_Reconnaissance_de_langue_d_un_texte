@@ -141,7 +141,7 @@ Commande de compilation :
 
 g++ Detection_de_la_langue.cpp -o Detection_de_la_langue -lfann
 
-Description 
+Description :
 
 Ce programme va créer un réseau de neuronne idoine à partir des données d'apprises dans le fichier langue.net .
 
