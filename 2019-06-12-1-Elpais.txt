@@ -1,0 +1,47 @@
+Las apps de tu teléfono que tienen permiso para escucharte
+Así puedes gestionar el uso del micrófono en tu móvil
+Compartir en FacebookCompartir en TwiterCompartir en otras redes ComentarImprimirEnviar por correo
+
+HÉCTOR LLANOS MARTÍNEZ  12 JUN 2019 - 12:57 CEST
+Es muy probable que quienes tengan instalada la app de LaLiga en su móvil estén activando su micrófono cada vez que la usan. El organismo de clubes de fútbol enfrenta una multa de 250.000 euros por aprovechar los dispositivos de sus usuarios para detectar la señal de televisión de bares y locales que emiten los partidos de fútbol de forma pirata y no informar sobre ello. LaLiga recurrirá la sentencia. Asegura que, para que la funcionalidad del micrófono esté activa, el usuario tiene que otorgar “expresa, proactivamente y en dos ocasiones su consentimiento”.
+
+
+Una situación similar ocurre con muchas otras aplicaciones instaladas en nuestros teléfonos. No solo recopilan la información que publicamos de forma voluntaria; también toman en segundo plano datos sobre la ubicación, las fotos, los contactos personales y el micrófono. Y en muchos casos no lo recordamos o no estamos al corriente de ello.
+
+
+Existen sencillas medidas de seguridad que ayudan a saber cuáles de ellas están usando tu micrófono y gestionar si quieres darles o no permiso para ello.
+
+Android
+
+Lo primero que hay que hacer es acceder a Ajustes a través de su icono. En la parte superior del menú aparece el símbolo de una lupa. Se debe teclear la palabra "permisos" y seleccionar el primero de los resultados: Permisos de aplicación.
+
+ 
+En el menú de ajustes, se busca el término permisos a través de su lupa y se selecciona la opción Permisos de aplicación
+
+En el menú de permisos de aplicaciones aparece un listado de herramientas a las que las apps pueden tener acceso (y que también conviene revisar y gestionar). Entre ellas están los contactos personales, la cámara y el micrófono.
+
+Si pulsamos en la opción del micrófono, se despliegan todas las apps instaladas en el teléfono que tienen capacidad para acceder a él. Al lado de cada una de ellas, aparece un botón de activar/desactivar. Las que aparecen en verde son las que están conectadas al micrófono, pero pulsando sobre el botón se puede anular está función.
+
+ 
+Este menú incluye la opción Micrófono, que muestra todas las apps del teléfono que pueden acceder a él
+
+La web de Google ofrece más información sobre cómo gestionar la seguridad de Android.
+
+iOS de iPhone
+
+También se puede controlar el uso del micrófono en los iPhone, que cuentan con el sistema operativo iOS. Muchos de sus modelos tienen más de un micrófono, como puede verse en una imagen que aparece en la web de Apple.
+
+Accediendo al icono de Ajustes se despliega un menú de opciones. Una de ellas es Privacidad.
+
+ 
+La opción Privacidad es una de las que aparecen en el menú de Ajustes
+
+Al pulsar sobre ella, aparece un nuevo menú, en el que hay que seleccionar la opción micrófono. En ella se muestra el listado de aplicaciones que tienen acceso a él. Se puede activar o desactivar en cada una de ellas pulsando el botón a su derecha. En verde está activado y en gris está desactivado.
+
+ 
+Además del micrófono, también se puede gestionar la privacidad de las fotos, los contactos y el calendario
+
+ 
+En verde, tienen acceso al micrófono; en gris, no tienen acceso al micrófono
+
+* También puedes seguirnos en Instagram y Flipboard. ¡No te pierdas lo mejor de Verne!
